@@ -1,5 +1,5 @@
-# Backbone Env #
-
+# Backbone Hostname #
+Globally set the hostname for all Backbone models and collections.
 
 ## Download ##
 https://raw.github.com/amccloud/backbone-hostname/master/backbone-hostname.js
